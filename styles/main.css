@@ -178,3 +178,9 @@ a {
     padding-left: 0;
   }
 }
+
+@media (max-width: 460px) {
+  .btn-resume {
+    margin-top: 15px;
+  }
+}
